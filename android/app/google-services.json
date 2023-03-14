@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47204164204",
+    "project_id": "arvea-690b0",
+    "storage_bucket": "arvea-690b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47204164204:android:4ea99b54d0d08fee042e49",
+        "android_client_info": {
+          "package_name": "com.example.arvea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47204164204-qfs00g8q7em7v72cksa8l3jer3eg8ujs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arvea",
+            "certificate_hash": "6bd8582040df303c4a5a5e01689a8819bcccfb44"
+          }
+        },
+        {
+          "client_id": "47204164204-jb4naota3fu20k89p9t46f66g11fkkfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQB_UD2vK2ozFgg3tiBMR2FTLn9ZvktFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47204164204-jb4naota3fu20k89p9t46f66g11fkkfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

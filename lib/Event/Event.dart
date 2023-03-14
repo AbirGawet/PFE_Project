@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+class Event extends StatefulWidget {
+  const Event({super.key});
+
+  @override
+  State<Event> createState() => _EventState();
+}
+
+class _EventState extends State<Event> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(),
+      drawer: const Drawer(),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.of(context).pushNamed("addEvent");
+        },
+        child: const Icon(Icons.add),
+      ),
+    );
+  }
+}
